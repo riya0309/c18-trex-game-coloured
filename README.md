@@ -1,1 +1,2 @@
-# c18-trex-game-coloured
+# PROC18-V3ColorfullTrex
+Colorful Trex
